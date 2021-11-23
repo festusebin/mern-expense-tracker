@@ -145,6 +145,7 @@ I made use of these `technology` during development.
 * [NodeJS](https://nodejs.org)
 * [Express Framework](https://expressjs.com)
 * [MongoDB](https://mongodb.com)
+* [Webpack](https://webpack.js.org)
 <!--* [Redux]
 * [Webpack] -->
 
